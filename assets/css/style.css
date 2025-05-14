@@ -424,7 +424,7 @@ body {
 }
 
 .service-link:hover {
-  color: #0056b3;
+  color: #342f06;
 }
 
 .service-link:hover i {
@@ -793,7 +793,7 @@ body {
 }
 
 .btn-block:hover {
-  background: #0056b3;
+  background: #342f06;
   transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
@@ -945,7 +945,7 @@ body {
 }
 
 .newsletter-form button:hover {
-  background: #0056b3;
+  background: #342f06;
 }
 
 .footer-bottom {
@@ -998,7 +998,7 @@ body {
 }
 
 .back-to-top:hover {
-  background: #0056b3;
+  background: #342f06;
   transform: translateY(-5px);
 }
 
